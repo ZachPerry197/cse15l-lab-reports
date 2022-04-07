@@ -1,16 +1,16 @@
-_This is italicized_
-//__This is bold__
-\n#This is heading 1
-\n##This is heading 2
-\n[Link](google.com)
-\n![Image](google.com)
-\n>This is a blockquote
-\n*This
+_This is italicized_<br>
+//__This is bold__<br>
+#This is heading 1<br>
+##This is heading 2<br>
+[Link](google.com)<br>
+![Image](google.com)<br>
+>This is a blockquote<br>
+*This
 *is
 *a
 *bulleted
 *list
-\n1. This
+1. This
 2. is
 3. a
 4. numbered
