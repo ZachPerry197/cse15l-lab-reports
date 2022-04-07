@@ -17,7 +17,8 @@ _This is italicized_<br>
 4. numbered
 5. list
 This will be horizontally ruled
-___
+
+***
 `This is inline code` with backticks
 ```
 This would be a code block
