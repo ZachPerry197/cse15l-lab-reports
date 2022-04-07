@@ -1,5 +1,5 @@
 _This is italicized_<br>
-//__This is bold__<br>
+__This is bold__<br>
 # This is heading 1<br>
 ## This is heading 2<br>
 [Link](google.com)<br>
