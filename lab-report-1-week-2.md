@@ -1,5 +1,7 @@
 # Week 2 Lab Report 1
 ## Remote Computer Access
+## Zachary Perry zperry@ucsd.edu A16963488
+## April 7, 2022
 
 * Step 1: Installing Visual Studio Code<br>
 The first step is to go to
