@@ -15,7 +15,7 @@ _This is italicized_<br>
 2. is
 3. a
 4. numbered
-5. list
+5. list<br>
 This will be horizontally ruled
 
 ***
