@@ -4,12 +4,12 @@ _This is italicized_<br>
 ##This is heading 2<br>
 [Link](google.com)<br>
 ![Image](google.com)<br>
->This is a blockquote<br>
-*This
-*is
-*a
-*bulleted
-*list
+>This is a blockquote
+* This
+* is
+* a
+* bulleted
+* list
 1. This
 2. is
 3. a
