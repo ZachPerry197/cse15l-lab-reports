@@ -12,15 +12,11 @@
 
 # Tests on my implementation of markdown-parser:
 
-![Image](mytestsnippet1.png)
-![Image](mytestsnippet2.png)
-![Image](mytestsnippet3.png)
+![Image](labreport4junittests.png)
 
 # Tests on our peer group's implementation of markdown-parser:
 
-![Image](peerstestsnippet1.png)
-![Image](peerstestsnippet2.png)
-![Image](peerstestsnippet3.png)
+![Image](labreport4junittestspeer.png)
 
 To make the tests I copied the contents of each of the snippets into a string as a text block and then compared an arraylist with the correct links to the one returned by the getLinks function using assertEquals.
 # For Snippet 1:
